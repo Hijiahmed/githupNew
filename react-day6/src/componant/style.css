@@ -1,0 +1,9 @@
+.continar{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.imgg{
+    margin: auto;
+    width: 300px;
+    height: 300px;
+}
